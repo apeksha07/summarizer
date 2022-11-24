@@ -1,0 +1,9 @@
+{
+    "python.pythonPath":"C:\\Users\\Lenovo\\Anaconda3\\envs\\FPRJ\\python.exe",
+
+"python.terminal.activateEnvironment": true,
+
+"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+
+
+}
